@@ -1,3 +1,5 @@
 
 # Roman Kremez
-<hr>
+
+---
+![foto](image/avatar.jpg)

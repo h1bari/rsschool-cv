@@ -1,1 +1,1 @@
-https://github.com/h1bari/rsschool-cv/tree/rsschool-cv-html
+https://github.com/h1bari/rsschool-cv/blob/gh-pages/cv.md
